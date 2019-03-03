@@ -1,4 +1,5 @@
 # configuration for admin page
+from pylint.checkers.strings import get_access_path
 
 
 self = ('self')
@@ -16,5 +17,11 @@ class menu:
         menu.__repr__
 
 print(menu)
+
+# Get latest Posts                  #Parse articles through in xml
+
+
+
+
 
 
