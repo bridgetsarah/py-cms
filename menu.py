@@ -1,4 +1,4 @@
-# Menu Py (defining links / views)
+# Menu Py (defining links / views / routes)
 
 # Main administration Menu
 
