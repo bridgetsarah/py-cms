@@ -21,15 +21,21 @@ modified = model.modified
 
 def post_functions():
     class post_functions():
-        post.function.title = title ('')                          # Title of post
-        post.function.slug = slug ('')                            # Slug of post
-        post.function.category = category ('')                    # Category of post
+        post.function.title = title ('title')                     # Title of post
+        post.function.slug = slug ('slug')                        # Slug of post
+        post.function.category = category ('category')            # Category of post
         post.function.author = author ('')                        # Author of post
         post.function.status = status ('')                        # Status of post
         post.function.created = created ('')                      # Created post date
         post.function.modified = modified ('')                    # Post last modified
-        return post_functions
+        return (text)
         print(post_functions)
+
+
+
+
+
+
 
     #class post_functions_status(status,):
     #post.function.status.edit = ('edit')

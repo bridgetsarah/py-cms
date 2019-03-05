@@ -1,7 +1,7 @@
 # configuration for admin page
 from pylint.checkers.strings import get_access_path
 
-
+# Global Functions
 self = ('self')
 dashboard  = ('dashboard')
 posts  = ('posts')
@@ -18,7 +18,15 @@ class menu:
 
 print(menu)
 
-# Get latest Posts                  #Parse articles through in xml
+# Local Functons
+
+# Post (user)
+
+# Post new post
+
+# User Class
+
+# User - Settings
 
 
 
