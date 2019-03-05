@@ -23,3 +23,22 @@ post_data = post()
 print (post())
 
 # Post Category (Dictionary?)
+
+
+# Category List
+
+programming_category = (
+    ["angular",
+     "angular js", 
+     "css", 
+     "html", 
+     "mongo" , 
+     "python"])
+print(programming_category)
+
+frameworks = (
+    ["Django",
+     "Express",
+     "Web2PY",
+     ])
+print(frameworks)     
