@@ -1,0 +1,12 @@
+title:   Goodbye Windows - Hello Linux                         
+slug:    Goodbye_windows
+created: 01/02/2019  
+
+article: "It is a long established fact that a reader will be 
+distracted by the readable content of a page when looking at 
+its layout. 
+
+category = 'OS, Windows, Linux,'                                  
+user = 'Bridgetsarah'                                             
+status = 'Published'
+last modified = '14/02/2019'

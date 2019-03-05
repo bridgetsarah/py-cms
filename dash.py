@@ -11,15 +11,6 @@ print(user_profile)
 
 
 
-
-
-
-
-
-
-
-
-
 # Display latest_posts                                     # Displays handful of x posts
 
 
