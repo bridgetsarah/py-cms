@@ -1,0 +1,44 @@
+/* Style Guide for Backend */
+
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+
+    
+}
+
+nav {
+    text-align: right;
+    text-transform: capitalize;
+}
+
+div.project{
+    background-color: gray;
+    color: white;
+    text-align: center;
+
+}
+/* grid container */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 0.8fr 1.2fr 1.1fr 0.9fr;
+    grid-template-rows: 0.3fr 0.8fr 1.9fr 1fr;
+    grid-template-areas: "spare navigation navigation navigation" "spare content content aside" "spare content content aside" "spare footer1 footer2 footer3";
+  }
+  
+  .spare { grid-area: spare; }
+  
+  .navigation { 
+      grid-area: navigation;
+      background-color:green;
+    }
+  
+  .aside { 
+      grid-area: aside;
+      text-align: right      
+    }
+  
+  .content { grid-area: content; }
